@@ -26,3 +26,9 @@ $ yarn start
 ```sh
 $ 3000
 ```
+
+## Running test
+
+```sh
+$ yarn test
+```
